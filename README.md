@@ -64,7 +64,7 @@ After you're finished please remove all the comments and instructions!
 
 > Abu Talha made this project for the module 1 day wo of microverse.
 
-**[your_project__name]** is a...
+**Hello Microverse** is a HTML, CSS project
 
 ## 🛠 Built With <a name="built-with"></a>
 
