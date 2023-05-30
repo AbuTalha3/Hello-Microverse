@@ -30,13 +30,13 @@ After you're finished please remove all the comments and instructions!
   <!-- <img src="murple_logo.png" alt="logo" width="140"  height="auto" /> -->
   <br/>
 
-  <h3><b> Hello Microverse </b></h3>
+  <h1><b>Hello Microverse</b></h1>
 
 </div>
 
 <!-- TABLE OF CONTENTS -->
 
-# 📗 Table of Contents
+## 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
@@ -62,22 +62,22 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
-> Abu Talha made this project for the module 1 day wo of microverse.
+This is the first technical Microverse project it tests more on Git, GitHub, GitHub Workflow and Linters.
 
-**Hello Microverse** is a HTML, CSS project
+*[Hello-Microverse]* is a HTML CSS project
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### HTML <a name="tech-stack"></a>
-### CSS <a name="tech-stack"></a>
-### Linters <a name="tech-stack"></a>
+### Tech Stack <a name="tech-stack"></a>
 
-
+- HTML
+- CSS
+- Linters
 
 <!-- <details>
   <summary>Client</summary>
   <ul>
-    <li>HTML</li>
+    <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
 </details>
 
@@ -99,23 +99,24 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+<!-- > Describe between 1-3 key features of the application. -->
 
-- **html**
-- **css**
-- **linters**
+- *Understanding Git, GitHub and GitHub Workflow*
+- *Configuring Linters*
+- *Creating pull requests and merging*
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo will be included after development completion. 
+## 🚀 Live Demo <a name="live-demo"></a>
 
-<!-- > Add a link to your deployed project. -->
+<!-- > Add a link to your deployed project.
 
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://google.com) -->
+A live link will be added soon.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- GETTING STARTED -->
 
@@ -129,48 +130,56 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- VS Code
-- Live Server Ext
+- Visual Studio Code
+- Live server Extension
+<!--
+Example command:
 
+sh
+ gem install rails
+
+ -->
 
 ### Setup
 
 Clone this repository to your desired folder:
-```sh  
-cd my-folder 
- git clone
-  git@github.com:myaccount/my-project.git
- ```
+
+sh
+  cd my-folder
+  git clone git@github.com:AbuTalha3/Hello-Microverse.git
 
 
 ### Install
 
 Install this project with:
-```sh 
- cd my-folder  
- npm install
-```
+
+sh
+  cd my-folder
+  npm install
+
+
 
 ### Usage
 
-To run the project start the html file with live server.
-
+To run the project, start the html file on live server
 
 ### Run tests
 
 To run tests, run the following command:
- ```sh 
- npx hint .  
- npx stylelint "**/*.{css,scss}"
- ```
+sh
+  npx hint .
+  npx stylelint "**/*.{css,scss}"
+
 
 ### Deployment
 
 You can deploy this project using:
-```sh 
- gh-pages 
- vercel 
- ```
+
+sh
+  gh-pages
+  netlify
+  vercel
+
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
@@ -178,56 +187,59 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
+👤 *AbuTalha*
 
-👤 **Abu Talha**
+- GitHub: [@AbuTalha3](https://github.com/AbuTalha3)
+<!-- - Twitter: [@twitterhandle](https://twitter.com/twitterhandle) -->
+- LinkedIn: [AbuTalha](https://www.linkedin.com/in/abu-talha-8203b252/)
 
-- GitHub: [@githubhandle](https://github.com/AbuTalha3)
-<!-- - Twitter: [@twitterhandle]() -->
-- LinkedIn: [LinkedIn](https://www.linkedin.com/feed/)
+<!-- 👤 *Author2*
 
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- FUTURE FEATURES -->
-<!-- 
-## 🔭 Future Features <a name="future-features"></a> -->
 
-<!-- > Describe 1 - 3 features you will add to the project. -->
+<!-- ## 🔭 Future Features <a name="future-features"></a>
 
-<!-- - [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]** -->
+> Describe 1 - 3 features you will add to the project.
 
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p>
+- [ ] *[new_feature_1]*
+- [ ] *[new_feature_2]*
+- [ ] *[new_feature_3]*
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- CONTRIBUTING -->
- 
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 <!-- Feel free to check the [issues page](../../issues/). -->
 
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> --> -->
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- SUPPORT -->
-<!-- 
-## ⭐️ Show your support <a name="support"></a> -->
+
+<!-- ## ⭐️ Show your support <a name="support"></a>
 
 > Write a message to encourage readers to support your project
 
-<!-- If you like this project...
+If you like this project... -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
-ACKNOWLEDGEMENTS -->
+<!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="MICROVERSE"></a>
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+<!-- > Give credit to everyone who inspired your codebase. -->
 
-I would like to thank MIcroverse for providing me the opportunity.
+I would like to thank Microverse for the opportunity to learn.
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
@@ -237,15 +249,15 @@ I would like to thank MIcroverse for providing me the opportunity.
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- *[Question_1]*
 
   - [Answer_1]
 
-- **[Question_2]**
+- *[Question_2]*
 
-  - [Answer_2]
+  - [Answer_2] -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- LICENSE -->
 
@@ -253,6 +265,6 @@ I would like to thank MIcroverse for providing me the opportunity.
 
 This project is [MIT](./MIT.md) licensed.
 
-<!-- _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._ -->
+<!-- NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish. -->
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
